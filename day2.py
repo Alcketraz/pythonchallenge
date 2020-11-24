@@ -28,3 +28,18 @@ b = int(b)
 print("After conversion")
 print(a)
 print(b)
+
+
+# C:\python37\python.exe C:/Users/Vedant/PycharmProjects/pythonInternship/day2.py
+# a=  2.0
+# b=  1000
+# c=  80
+# SHGDY
+# Before converting
+# 2
+# 4.5462
+# After conversion
+# 2.0
+# 4
+
+# Process finished with exit code 0
