@@ -90,4 +90,26 @@ sin = math.asin(x)
 print(sin)
 
 
+# C:\python37\python.exe C:/Users/Vedant/PycharmProjects/pythonInternship/day6.py
+# [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+# 5 4 3 2 1 
+# 4 3 2 1 
+# 3 2 1 
+# 2 1 
+# 1 
+
+# 34
+# 9 18 27 36 45 54 63 72 81 
+# Enter a number: 34
+# number is positive
+# Enter the number of days: 2356
+# Age or years:  6.454794520547945
+# A basic calculator: 
+# enter the first number : 45
+# enter operator: -
+# enter the second number : 21
+# 24
+# -0.4667653390472964
+
+# Process finished with exit code 0
 
