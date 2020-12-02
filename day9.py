@@ -23,3 +23,17 @@ print("Fibonacci series: ")
 f = lambda y: reduce(lambda x, _: x + [x[-1] + x[-2]], range(y - 2), [0, 1])
 
 print(f(8))
+
+#OUTPUT
+# C:\python37\python.exe C:/Users/Vedant/PycharmProjects/pythonInternship/day9.py
+# 150
+# list * 2: 
+# [2, 4, 6, 8, 10, 12, 162, 18]
+# Numbers divisible by 9: 
+# [False, False, False, False, False, False, True, True]
+# Even numbers from the list: 
+# 3
+# Fibonacci series: 
+# [0, 1, 1, 2, 3, 5, 8, 13]
+
+# Process finished with exit code 0
